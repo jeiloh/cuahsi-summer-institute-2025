@@ -10,3 +10,4 @@ Notebooks and code for CUAHSI 2025 Summer Institute urban flooding theme
 - usgs_to_comid.csv: https://utexas.box.com/s/qwn0xla2cwfhq1ybrs8guh18onkimwmu
 - gages.h5: https://utexas.box.com/s/uj2p0i8orvy9wxz2xvrpuom2ltcce9jn
 - area-fractions.h5: https://utexas.box.com/s/ut9yh4l6s6ywx9g7tc3g1jqqs2ez7gcc
+- travis-densified-streamlines (shapefile): https://utexas.box.com/s/nzwz474a6fjtxrmj1j5ihtbtzbxudwbh
